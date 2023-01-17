@@ -81,7 +81,7 @@ export default class StoryScreen extends Component {
   }
 
   likeAction = () => {
-    
+    //escribir aquí la función para Likes
   }
 
   render() {
